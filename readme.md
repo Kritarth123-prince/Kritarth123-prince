@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Machine Learning Enthusiast | Aspiring Researcher<br><br>
+**🎓 Machine Learning Enthusiast | Aspiring Researcher**<br><br>
 
 Hello! I'm Kritarth Ranjan, a passionate learner and researcher in the field of Machine Learning, Deep Learning, and Neural Networks. Currently, I'm pursuing my graduation, where I'm diving deep into the fascinating world of AI and its endless possibilities.<br><br>
 
