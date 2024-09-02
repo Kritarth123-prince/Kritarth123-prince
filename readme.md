@@ -1,15 +1,11 @@
 # 💫 About Me:
 **🎓 Machine Learning Enthusiast | Aspiring Researcher**<br><br>
 
-Hey there! I'm Kritarth Ranjan, currently pursuing my graduation with a deep passion for Machine Learning, Deep Learning, and Neural Networks. I'm fascinated by the potential of AI to transform the way we interact with the world and am constantly exploring new ways to push the boundaries of what's possible.<br><br>
+👋 Hi, I'm Kritarth Ranjan! I'm a student with a passion for Machine Learning, Deep Learning, and Neural Networks. I'm fascinated by AI and love exploring how it can change the world.<br><br>
 
-My main interests lie in creating intelligent systems that can learn from data and make smart decisions on their own. I'm particularly drawn to the mathematical side of machine learning and enjoy diving into the details of neural network design.<br><br>
+🚀 I'm into building intelligent systems, diving deep into neural networks, and always on the lookout for exciting projects and collaborations.<br><br>
 
-🚀 My primary interests lie in exploring and developing intelligent systems that can learn from data and make decisions autonomously. I am particularly intrigued by the mathematical foundations of machine learning and the design of novel neural network architectures.<br><br>
-
-🔬 I love working on challenging projects that not only test my skills but also contribute to the broader ML community. Whether it's collaborating on open-source projects, conducting my own research, or participating in competitions, I'm always looking for opportunities to learn and grow.<br><br>
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about AI!<br><br>
+🌱 Always learning, always growing. Let's connect and create something awesome together!<br><br>
 
 
 ## 🌐 Socials:
